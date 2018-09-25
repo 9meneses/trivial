@@ -10,8 +10,15 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+        <body style="background-color: #666">
+        <div class="container">  
+             <div class="row"> 
+                 <div class="col-12">  
+                 <h2 class="text-center" style="color:white;"> EJEMPLO DE INICIO DE SESIÓN EN PHP</h2>
+                </div> 
         <?php
         // put your code here
         ?>
     </body>
+    <script src="js/jquery-3.3.1.min.js" type="text/javascript"></script>
 </html>
